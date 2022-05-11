@@ -67,6 +67,11 @@ p{
   padding: 50px 0 20px;
 
 }
+.mainimg{
+  max-width: 100%;
+ max-height: 100vh;
+ margin: auto;
+}
 .skill-row{
   width: 50%;
   margin: 100px auto;
